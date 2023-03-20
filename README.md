@@ -1,1 +1,2 @@
-# Laboratorio_Tecnologie_linguaggio
+# Laboratorio di Tecnologie del linguaggio
+### Maria Pia di Buono e Raffaele Manna
