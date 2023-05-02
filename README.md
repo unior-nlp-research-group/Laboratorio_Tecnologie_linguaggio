@@ -9,7 +9,8 @@ Lezione 2 -
 
 Lezione 3 -
 
-Lezione 4 -
+Lezione 4 - Caratteristiche linguisiche e clustering di autori
+https://colab.research.google.com/drive/1iI0QJmJUGdwp_5J-xv6QrU-zktO3LXxV?usp=sharing
 
 Lezione 5 - 
 
