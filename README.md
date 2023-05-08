@@ -17,7 +17,9 @@ Lezione 4 - Caratteristiche linguisiche e clustering di autori
 
 https://colab.research.google.com/drive/1iI0QJmJUGdwp_5J-xv6QrU-zktO3LXxV?usp=sharing
 
-Lezione 5 - 
+Lezione 5 - Topic Modelling e Opinion Mining
+
+https://colab.research.google.com/drive/1NZqk81UOiTqdJw5gtNMokLCbQlPyUwz_?usp=sharing
 
 Lezione 6 -
 
