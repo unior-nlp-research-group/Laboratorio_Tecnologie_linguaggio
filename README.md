@@ -21,7 +21,9 @@ Lezione 5 - Topic Modelling e Opinion Mining
 
 https://colab.research.google.com/drive/1NZqk81UOiTqdJw5gtNMokLCbQlPyUwz_?usp=sharing
 
-Lezione 6 -
+Lezione 6 - Prompt Engineering - ChatGPT - Potenzialità per applicazioni in NLP
+
+https://colab.research.google.com/drive/1SwDKxWnbSODjsa4nSdHPVChZS9KXtXbJ?usp=sharing
 
 Lezione 7 -
 
