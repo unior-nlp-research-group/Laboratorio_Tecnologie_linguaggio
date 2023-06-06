@@ -25,7 +25,9 @@ Lezione 6 - Prompt Engineering - ChatGPT - Potenzialità per applicazioni in NLP
 
 https://colab.research.google.com/drive/1SwDKxWnbSODjsa4nSdHPVChZS9KXtXbJ?usp=sharing
 
-Lezione 7 -
+Lezione 7 - Classificazione e Analisi del Sentimento
+
+https://colab.research.google.com/drive/16Q6D8xa98NXxwWhnQk5_oHz2778DrSJP?usp=sharing
 
 Lezione 8 -
 
